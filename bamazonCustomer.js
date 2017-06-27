@@ -117,7 +117,7 @@ function displayInventory() {
 	  	console.log("---------------------------------------------------------------------\n");
 
 	  	//Prompt the user for item/quantity they would like to purchase
-	  	promptUserPurchase();
+	  	promptUser();
 	})
 }
 
